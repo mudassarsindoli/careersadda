@@ -40,6 +40,7 @@ const all = categories.flatMap((category) =>
       id: count === 1 ? base : `${base}-${count}`,
       name: company.name,
       initials: initials(company.name),
+      categoryId: category.id,
       logo: company.logo ?? "",
       careersUrl: company.careersUrl ?? "",
       domain: hostnameOf(company.careersUrl),

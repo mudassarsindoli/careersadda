@@ -14,13 +14,6 @@ export const categories = [
         careersUrl:
           "https://careers.adobe.com/us/en/search-results?keywords={query}",
         logo: "https://blog.adobe.com/en/publish/2020/05/28/media_1cc0fcc19cf0e64decbceb3a606707a3ad23f51dd.png?width=1200&format=pjpg&optimize=medium",
-        confidence_score_to_join: "94%",
-        type: "mnc",
-        approx_employee_count: 29000,
-        specialized_in:
-          "Digital Media, Creative Software, Enterprise Cloud Solutions",
-        average_salary:
-          "senior_engg: 38LPA, hr_manager: 26LPA, finance_head: 55LPA",
       },
       {
         name: "ServiceNow",
@@ -39,26 +32,12 @@ export const categories = [
         careersUrl:
           "https://www.databricks.com/company/careers/open-positions?department=all&location=all&search={query}",
         logo: "https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-        confidence_score_to_join: "95%",
-        type: "growth_stage",
-        approx_employee_count: 7000,
-        specialized_in:
-          "Data Lakehouse, Apache Spark, Enterprise AI Infrastructure",
-        average_salary:
-          "senior_engg: 50LPA, hr_manager: 30LPA, finance_head: 70LPA",
       },
       {
         name: "Atlassian",
         careersUrl:
           "https://www.atlassian.com/company/careers/all-jobs?team={query}&location=&search={query}",
         logo: "https://atlassian.design/assets/dab2e15ce8c4/21f597d1f31e99180e9ccf2e82b47ac0/logo-centered.png",
-        confidence_score_to_join: "92%",
-        type: "mnc",
-        approx_employee_count: 11000,
-        specialized_in:
-          "Developer Collaboration Tools, Agile Workflows (Jira, Confluence)",
-        average_salary:
-          "senior_engg: 40LPA, hr_manager: 27LPA, finance_head: 58LPA",
       },
       {
         name: "CrowdStrike",
@@ -88,13 +67,6 @@ export const categories = [
         name: "Cloudflare",
         careersUrl: "https://www.cloudflare.com/careers/jobs/?search={query}",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cloudflare_Logo.svg/3840px-Cloudflare_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "91%",
-        type: "mnc",
-        approx_employee_count: 4000,
-        specialized_in:
-          "Content Delivery Network, Edge Computing, DDoS Mitigation",
-        average_salary:
-          "senior_engg: 39LPA, hr_manager: 24LPA, finance_head: 50LPA",
       },
       {
         name: "Datadog",
@@ -111,13 +83,6 @@ export const categories = [
         careersUrl:
           "https://workday.wd5.myworkdayjobs.com/Workday/?q={query}&source=Careers_Website",
         logo: "https://images.seeklogo.com/logo-png/25/1/workday-logo-png_seeklogo-255730.png",
-        confidence_score_to_join: "89%",
-        type: "mnc",
-        approx_employee_count: 18800,
-        specialized_in:
-          "Cloud Human Capital Management, Enterprise Financial Systems",
-        average_salary:
-          "senior_engg: 34LPA, hr_manager: 22LPA, finance_head: 46LPA",
       },
       {
         name: "Cisco",
@@ -136,13 +101,6 @@ export const categories = [
         careersUrl:
           "https://intel.wd1.myworkdayjobs.com/en-US/External?q={query}&shared_id=NTA3OGJmNzQtNjNiOS00MWYyLWJlNDItYjdhMDAyM2I2OWVh&jobFamilyGroup=ace7a3d23b7e01a0544279031a0ec85c",
         logo: "https://images.hindustantimes.com/tech/img/2020/09/03/1600x900/Intel_1599127503950_1599127526950.JPG",
-        confidence_score_to_join: "82%",
-        type: "mnc",
-        approx_employee_count: 124000,
-        specialized_in:
-          "Microprocessor Architecture, Semiconductor Fabrication",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 19LPA, finance_head: 40LPA",
       },
       {
         name: "IBM",
@@ -161,25 +119,11 @@ export const categories = [
         careersUrl:
           "https://jobs.sap.com/search/?createNewAlert=false&q={query}&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "87%",
-        type: "mnc",
-        approx_employee_count: 108000,
-        specialized_in:
-          "Enterprise Resource Planning (ERP), Business Operations Software",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 20LPA, finance_head: 42LPA",
       },
       {
         name: "Uber",
         careersUrl: "https://jobs.uber.com/en/jobs/?search={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRR_y9up5G9TXo_EYiVd_edmGWiVnadcAQ9TnmuG5p6-zpdSV7Bb8tyQqQ&s=10",
-        confidence_score_to_join: "89%",
-        type: "mnc",
-        approx_employee_count: 30000,
-        specialized_in:
-          "Distributed Logistics, Mobility Applications, Real-Time Systems",
-        average_salary:
-          "senior_engg: 42LPA, hr_manager: 25LPA, finance_head: 55LPA",
       },
       {
         name: "Airbnb",
@@ -192,13 +136,6 @@ export const categories = [
         careersUrl:
           "https://www.lifeatspotify.com/jobs?c={query}&c=client-c&c=data&c={query}&c={query}&c=machine-learning&c=mobile&c={query}&c=security&c=tech-research&c=web&j=permanent",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/960px-Spotify_logo_with_text.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "88%",
-        type: "mnc",
-        approx_employee_count: 9000,
-        specialized_in:
-          "Audio Streaming Technology, Recommendation Engine Algorithms",
-        average_salary:
-          "senior_engg: 36LPA, hr_manager: 23LPA, finance_head: 48LPA",
       },
       {
         name: "LinkedIn",
@@ -232,13 +169,6 @@ export const categories = [
         name: "Block / Square",
         careersUrl: "https://block.xyz/careers/jobs?query={query}",
         logo: "https://mms.businesswire.com/media/20211201006139/en/932239/4/5452282_Block_lockup_positive_white_480.gif",
-        confidence_score_to_join: "87%",
-        type: "mnc",
-        approx_employee_count: 12000,
-        specialized_in:
-          "Point-of-Sale Hardware/Software, Merchant Financial Services",
-        average_salary:
-          "senior_engg: 38LPA, hr_manager: 24LPA, finance_head: 52LPA",
       },
       {
         name: "Palantir",
@@ -263,13 +193,6 @@ export const categories = [
         careersUrl:
           "https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=all-locations&department=technology",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1v80cHiGlhdl5FJVm3CImHsO6fnBGjaDcTRBnc6ZONI9tMZfRpPaYNg&s=10",
-        confidence_score_to_join: "98%",
-        type: "prop_trading",
-        approx_employee_count: 2600,
-        specialized_in:
-          "Quantitative Analysis, Proprietary Trading Architecture",
-        average_salary:
-          "senior_engg: 110LPA, hr_manager: 38LPA, finance_head: 140LPA",
       },
       {
         name: "Two Sigma",
@@ -299,13 +222,6 @@ export const categories = [
         careersUrl: "https://careers.mastercard.com/us/en/search-results",
         logo: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
         logoSize: "bg-[size:200px_auto]",
-        confidence_score_to_join: "93%",
-        type: "mnc",
-        approx_employee_count: 33000,
-        specialized_in:
-          "Payment Processing Networks, Financial Tech Innovation",
-        average_salary:
-          "senior_engg: 34LPA, hr_manager: 24LPA, finance_head: 58LPA",
       },
       {
         name: "American Express",
@@ -359,13 +275,6 @@ export const categories = [
         careersUrl:
           "https://portal.careers.hsbc.com/careers?query={query}&location=India&pid=563774612231930&domain=hsbc.com&sort_by=relevance&triggerGoButton=false",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/HSBC_logo_%282018%29.svg/960px-HSBC_logo_%282018%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 220000,
-        specialized_in:
-          "International Trade Finance, Retail Banking Operations",
-        average_salary:
-          "senior_engg: 24LPA, hr_manager: 18LPA, finance_head: 42LPA",
       },
       {
         name: "UBS",
@@ -378,13 +287,6 @@ export const categories = [
         careersUrl:
           "https://careers.db.com/professionals/search-roles/#/professional/results/?jobIdSearch={query}",
         logo: "https://1000logos.net/wp-content/uploads/2017/09/Color-Deutsche-Bank-Logo.jpg",
-        confidence_score_to_join: "83%",
-        type: "mnc",
-        approx_employee_count: 90000,
-        specialized_in:
-          "Capital Markets Infrastructure, Corporate Risk Systems",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 18LPA, finance_head: 45LPA",
       },
       {
         name: "BNP Paribas",
@@ -465,13 +367,6 @@ export const categories = [
         careersUrl:
           "https://amazon.jobs/content/en/job-categories/software-development?cmpid=DS_ANAL200537D",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cz4mYyrdWAGe3fgXKr4hIHCFmVf3zXL1xpbXTmsbw6Cs6pHsueblUdDj&s=10",
-        confidence_score_to_join: "88%",
-        type: "mnc",
-        approx_employee_count: 1500000,
-        specialized_in:
-          "E-Commerce Logistics, E-Retail Platforms, Cloud Ecosystems",
-        average_salary:
-          "senior_engg: 42LPA, hr_manager: 25LPA, finance_head: 60LPA",
       },
       {
         name: "Lowe's",
@@ -483,13 +378,6 @@ export const categories = [
         careersUrl:
           "https://www.seeacareerwithus.com/search-jobs?keyword={query}#search-results",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Ikea_logo.svg/960px-Ikea_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "89%",
-        type: "mnc",
-        approx_employee_count: 208000,
-        specialized_in:
-          "Furniture Retail Infrastructure, Global Supply Logistics",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 20LPA, finance_head: 45LPA",
       },
       {
         name: "Lululemon",
@@ -503,26 +391,12 @@ export const categories = [
         careersUrl:
           "https://www.lvmh.com/en/join-us/our-job-offers?PRD-en-us-timestamp-desc%5Bquery%5D={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqKasa_XeEC35xXTdJZPhZALsmfxEhe_wlKxK8CMomw&s=10",
-        confidence_score_to_join: "92%",
-        type: "mnc",
-        approx_employee_count: 213000,
-        specialized_in:
-          "Luxury Brand Distribution, Premium Retail Infrastructure",
-        average_salary:
-          "senior_engg: 35LPA, hr_manager: 26LPA, finance_head: 65LPA",
       },
       {
         name: "Chewy",
         careersUrl:
           "https://careers.chewy.com/us/en/search-results?keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_C5M-bV5N3EPSvo5VU2LnugvPzSPnVlyWUQ4njt-pvw&s=10",
-        confidence_score_to_join: "87%",
-        type: "mnc",
-        approx_employee_count: 20000,
-        specialized_in:
-          "E-Commerce Pet Care Distribution, Automated Order Fulfillment",
-        average_salary:
-          "senior_engg: 33LPA, hr_manager: 21LPA, finance_head: 46LPA",
       },
       {
         name: "Wayfair",
@@ -540,13 +414,6 @@ export const categories = [
         careersUrl:
           "https://careers.adidas-group.com/jobs?brand=&team=&type=&keywords={query}&location=%5B%5D&sort=&locale=en&offset=0",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoMDus9dbrd7WIKwByQTL7RokXdndy5ujEq6LZT6Gi0A&s=10",
-        confidence_score_to_join: "88%",
-        type: "mnc",
-        approx_employee_count: 59000,
-        specialized_in:
-          "Sportswear Retail Engineering, Digital Direct-to-Consumer Platforms",
-        average_salary:
-          "senior_engg: 30LPA, hr_manager: 21LPA, finance_head: 48LPA",
       },
       {
         name: "Puma",
@@ -559,76 +426,34 @@ export const categories = [
         careersUrl:
           "https://jobs.tjx.com/global/en/search-results?keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-167xkjIyTiyosJMLEX1xfh0xTDrNL2O423xktd9Uw&s=10",
-        confidence_score_to_join: "85%",
-        type: "mnc",
-        approx_employee_count: 349000,
-        specialized_in:
-          "Off-Price Retail Operations, Inventory Distribution Networks",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 18LPA, finance_head: 40LPA",
       },
       {
         name: "CVS Health",
         careersUrl:
           "https://jobs.cvshealth.com/us/en/search-results?keywords={query}",
         logo: "https://download.logo.wine/logo/CVS_Health/CVS_Health-Logo.wine.png",
-        confidence_score_to_join: "83%",
-        type: "mnc",
-        approx_employee_count: 300000,
-        specialized_in:
-          "Pharmacy Retail Management, Healthcare Retail Logistics",
-        average_salary:
-          "senior_engg: 27LPA, hr_manager: 19LPA, finance_head: 45LPA",
       },
       {
         name: "Best Buy",
         careersUrl:
           "https://jobs.bestbuy.com/bby?id=all_jobs&spa=1&q={query}&r=25&s=relevance&country=US",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8BDoscrJYFDZvx3t8caOvH_xaA8ML3Uf26UjbY8Dch4l9rKypC52n8Y&s=10",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 85000,
-        specialized_in:
-          "Consumer Electronics Retail, Technical Services Network",
-        average_salary:
-          "senior_engg: 28LPA, hr_manager: 19LPA, finance_head: 43LPA",
       },
       {
         name: "Nordstrom",
         careersUrl: "https://careers.nordstrom.com/jobs?keyword={query}",
         logo: "https://1000logos.net/wp-content/uploads/2022/08/Nordstrom-logo.png",
-        confidence_score_to_join: "85%",
-        type: "mnc",
-        approx_employee_count: 60000,
-        specialized_in:
-          "Department Store Retail Systems, E-Commerce Operations",
-        average_salary:
-          "senior_engg: 29LPA, hr_manager: 20LPA, finance_head: 44LPA",
       },
       {
         name: "AutoZone",
         careersUrl:
           "https://careers.autozone.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword={query}&mode=location",
         logo: "https://images.seeklogo.com/logo-png/50/1/autozone-logo-png_seeklogo-504766.png",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 115000,
-        specialized_in:
-          "Automotive Parts Distribution, Retail Inventory Operations",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 18LPA, finance_head: 40LPA",
       },
       {
         name: "Bath & Body Works",
         careersUrl: "https://careers.bathandbodyworks.com/jobs?keyword={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lg4rMjNDxzJlcW0BjtOBlMwGsu_4l0qzKXTP1P32hR1-3MECfM6mOdQ&s=10",
-        confidence_score_to_join: "85%",
-        type: "mnc",
-        approx_employee_count: 56000,
-        specialized_in:
-          "Specialty Retail Network, Consumer Personal Care Supply Chain",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 18LPA, finance_head: 41LPA",
       },
       {
         name: "Dollar General",
@@ -641,13 +466,6 @@ export const categories = [
         careersUrl:
           "https://careers.oreillyauto.com/us/en/search-results?keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlBnH5e1vv3TBt67i8BEWcQJ1t19_Vkdy4zYZMi8sww&s=10",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 88000,
-        specialized_in:
-          "Automotive Replacement Retail, Regional Distribution Logistics",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 18LPA, finance_head: 39LPA",
       },
       {
         name: "Gap Inc.",
@@ -659,13 +477,6 @@ export const categories = [
         name: "Kohl's",
         careersUrl: "https://careers.kohls.com/search-results?keywords={query}",
         logo: "https://logos-world.net/wp-content/uploads/2022/02/Kohls-Logo.png",
-        confidence_score_to_join: "81%",
-        type: "mnc",
-        approx_employee_count: 95000,
-        specialized_in:
-          "Department Store Omnichannel Retail, Inventory Tracking",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 18LPA, finance_head: 40LPA",
       },
       {
         name: "Under Armour",
@@ -673,13 +484,6 @@ export const categories = [
           "https://careers.underarmour.com/search/?searchby=location&createNewAlert=false&q={query}&locationsearch=&geolocation=",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-5P-Yt65PHnhQnAfSo3rJb9hqmkuWSwxHR7TzJy3EsieTNQMH6nKSEo&s=10",
         logoSize: "bg-[size:200px_auto]",
-        confidence_score_to_join: "83%",
-        type: "mnc",
-        approx_employee_count: 15000,
-        specialized_in:
-          "Performance Apparel Retail, Direct E-Commerce Channels",
-        average_salary:
-          "senior_engg: 27LPA, hr_manager: 19LPA, finance_head: 42LPA",
       },
       {
         name: "PetSmart",
@@ -691,100 +495,44 @@ export const categories = [
         careersUrl:
           "https://careers.petco.com/search-jobs?k={query}&l=&orgIds=47428",
         logo: "https://images.seeklogo.com/logo-png/32/1/petco-logo-png_seeklogo-326854.png",
-        confidence_score_to_join: "82%",
-        type: "mnc",
-        approx_employee_count: 27000,
-        specialized_in:
-          "Pet Health Retail Infrastructure, Store Fulfillment Operations",
-        average_salary:
-          "senior_engg: 24LPA, hr_manager: 17LPA, finance_head: 38LPA",
       },
       {
         name: "Foot Locker",
         careersUrl: "https://careers.footlocker.com/jobs?keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEDadhQYibz042p9zS8YkZjVfPzovqaJDsqv7t6SEUqpxStiu5ykLNIE&s=10",
-        confidence_score_to_join: "81%",
-        type: "mnc",
-        approx_employee_count: 45000,
-        specialized_in:
-          "Footwear Retail Operations, Brand Distribution Partnerships",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 18LPA, finance_head: 39LPA",
       },
       {
         name: "Albertsons Companies",
         careersUrl:
           "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword={query}&mode=location",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcFTXfeWw_-GQiYuj2znxT4mcH1wdTDAHwW5G1YNuKdFtar8udDphcnQs&s=10",
-        confidence_score_to_join: "81%",
-        type: "mnc",
-        approx_employee_count: 290000,
-        specialized_in:
-          "Grocery Supermarket Retail, Perishable Goods Supply Chain",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 18LPA, finance_head: 41LPA",
       },
       {
         name: "H&M",
         careersUrl: "https://career.hm.com/search/?f={query}",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/H%26M-Logo.svg/3840px-H%26M-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "83%",
-        type: "mnc",
-        approx_employee_count: 100000,
-        specialized_in:
-          "Fast-Fashion Retail Chains, Global Garment Supply Networks",
-        average_salary:
-          "senior_engg: 27LPA, hr_manager: 19LPA, finance_head: 43LPA",
       },
       {
         name: "Urban Outfitters",
         careersUrl:
           "https://hub-urbn.icims.com/jobs/search?ss=1&searchKeyword={query}&searchRelation=keyword_all",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWu7RSnG2TiE5N2Ya0twFB9vzZ9Zrc8NKWoAvdFItJma5xds9479BjJPQr&s=10",
-        confidence_score_to_join: "83%",
-        type: "mnc",
-        approx_employee_count: 24000,
-        specialized_in:
-          "Lifestyle Consumer Retail, Specialty Brand Merchandising",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 18LPA, finance_head: 40LPA",
       },
       {
         name: "Walgreens",
         careersUrl:
           "https://jobs.walgreens.com/en/search-jobs?k={query}&l=&orgIds=1242",
         logo: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Walgreens_2020_initial_W_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-        confidence_score_to_join: "80%",
-        type: "mnc",
-        approx_employee_count: 330000,
-        specialized_in:
-          "Pharmacy & Retail Store Chains, Healthcare Product Distribution",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 18LPA, finance_head: 39LPA",
       },
       {
         name: "VF Corporation (Vans, The North Face)",
         careersUrl: "https://vfc.wd5.myworkdayjobs.com/vfc_careers?q={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnrBtNjTwrnOKWEN4Ik43jxqS5gFsfGIGHHGB741Jl2Q&s=10",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 35000,
-        specialized_in:
-          "Apparel Brand Portfolios, Global Retail Infrastructure",
-        average_salary:
-          "senior_engg: 28LPA, hr_manager: 19LPA, finance_head: 43LPA",
       },
       {
         name: "Dollar Tree",
         careersUrl: "https://careers.dollartree.com/us/en",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05HncD5uFPPXb_t9VJ7UKHUPPKZjb43yIOj91ZoNZVA&s=10",
-        confidence_score_to_join: "79%",
-        type: "mnc",
-        approx_employee_count: 200000,
-        specialized_in:
-          "Discount Merchandise Chains, Large-Scale Retail Logistics",
-        average_salary:
-          "senior_engg: 23LPA, hr_manager: 17LPA, finance_head: 37LPA",
       },
     ],
   },
@@ -797,26 +545,12 @@ export const categories = [
         careersUrl:
           "https://careers.lilly.com/us/en/search-results?keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ze1_T89qqtXaD6-nxgoecPGnzuDpgxQSw4uj14pHvA&s=10",
-        confidence_score_to_join: "95%",
-        type: "mnc",
-        approx_employee_count: 43000,
-        specialized_in:
-          "Pharmaceutical Research, Endocrine & Oncology Treatments",
-        average_salary:
-          "senior_engg: 30LPA, hr_manager: 23LPA, finance_head: 55LPA",
       },
       {
         name: "Intuitive Surgical",
         careersUrl:
           "https://careers.intuitive.com/en/jobs/?search={query}&origin=global",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8scmAl3A5O3-lDMKK3nxu168wDG80nlLpwj8wdmn1FkWu0h0OF1hW5T3&s=10",
-        confidence_score_to_join: "94%",
-        type: "mnc",
-        approx_employee_count: 13000,
-        specialized_in:
-          "Robotic Surgical Systems (da Vinci), Surgical Robotics Engineering",
-        average_salary:
-          "senior_engg: 38LPA, hr_manager: 25LPA, finance_head: 60LPA",
       },
       {
         name: "Johnson & Johnson",
@@ -835,13 +569,6 @@ export const categories = [
         careersUrl:
           "https://jobs.thermofisher.com/global/en/search-results?m=3&keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuf9gQ8WVBy5jk8z01Y4BoMQOyCR8VdLzlEq8qHvNk8Q&s=10",
-        confidence_score_to_join: "91%",
-        type: "mnc",
-        approx_employee_count: 122000,
-        specialized_in:
-          "Life Sciences Instruments, Diagnostic Analytical Hardware",
-        average_salary:
-          "senior_engg: 26LPA, hr_manager: 20LPA, finance_head: 48LPA",
       },
       {
         name: "Stryker",
@@ -853,13 +580,6 @@ export const categories = [
         careersUrl:
           "http://jobs.danaher.com/global/en/search-results?keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHA4VJg8YxQHCtfbmKtjb0sB97OWGBygcr_k4eJV_AcQV4C1W4v4vA9_c&s=10",
-        confidence_score_to_join: "91%",
-        type: "mnc",
-        approx_employee_count: 63000,
-        specialized_in:
-          "Medical Diagnostics Systems, Life Science Instrumentation",
-        average_salary:
-          "senior_engg: 28LPA, hr_manager: 21LPA, finance_head: 50LPA",
       },
       {
         name: "Abbott Laboratories",
@@ -926,26 +646,12 @@ export const categories = [
         careersUrl:
           "https://careers.gehealthcare.com/global/en/search-results?keywords={query}",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/GE_HealthCare_logo_2023.svg/1280px-GE_HealthCare_logo_2023.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "87%",
-        type: "mnc",
-        approx_employee_count: 51000,
-        specialized_in:
-          "Diagnostic Imaging (MRI, CT), Precision Care Technology",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 19LPA, finance_head: 46LPA",
       },
       {
         name: "Siemens Healthineers",
         careersUrl:
           "https://jobs.siemens-healthineers.com/en_US/searchjobs/SearchJobs/software?listFilterMode=1&folderRecordsPerPage=6&",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Siemens_Healthineers_logo.svg/1280px-Siemens_Healthineers_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "89%",
-        type: "mnc",
-        approx_employee_count: 71000,
-        specialized_in:
-          "Medical Imaging Infrastructure, Advanced Laboratory Diagnostics",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 19LPA, finance_head: 45LPA",
       },
       {
         name: "Bristol Myers Squibb",
@@ -963,39 +669,18 @@ export const categories = [
         name: "Philips Healthcare",
         careersUrl: "https://www.careers.philips.com/in/en/search-results",
         logo: "https://www.freepnglogos.com/uploads/philips-logo-7.png",
-        confidence_score_to_join: "86%",
-        type: "mnc",
-        approx_employee_count: 69000,
-        specialized_in:
-          "Health Technology Solutions, Patient Monitoring Systems",
-        average_salary:
-          "senior_engg: 23LPA, hr_manager: 18LPA, finance_head: 42LPA",
       },
       {
         name: "IQVIA",
         careersUrl:
           "https://jobs.iqvia.com/en/jobs?keywords={query}#job-listing",
         logo: "https://logos-world.net/wp-content/uploads/2025/11/IQVIA-Logo.jpg",
-        confidence_score_to_join: "86%",
-        type: "mnc",
-        approx_employee_count: 87000,
-        specialized_in:
-          "Clinical Research Data, Healthcare Analytics Platforms",
-        average_salary:
-          "senior_engg: 22LPA, hr_manager: 17LPA, finance_head: 40LPA",
       },
       {
         name: "Baxter International",
         careersUrl:
           "https://jobs.baxter.com/en/search-jobs?k={query}&l=&orgIds=152",
         logo: "https://pbs.twimg.com/profile_images/1921960609177866240/FifCFrdM_400x400.jpg",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 60000,
-        specialized_in:
-          "Renal & Hospital Products, Critical Care Infrastructure",
-        average_salary:
-          "senior_engg: 22LPA, hr_manager: 17LPA, finance_head: 39LPA",
       },
       {
         name: "Becton Dickinson (BD)",
@@ -1008,64 +693,29 @@ export const categories = [
         careersUrl:
           "https://jobs.thecignagroup.com/us/en/search-results?keywords={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3mpDCo6GuE-v1S4fy6iTCEkuOYno9oVupyY3xXx1LLwLbDE39fNgbdLQ&s=10",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 70000,
-        specialized_in:
-          "Managed Healthcare Services, Pharmacy Benefit Management",
-        average_salary:
-          "senior_engg: 25LPA, hr_manager: 18LPA, finance_head: 43LPA",
       },
       {
         name: "Elevance Health",
         careersUrl: "https://careers.elevancehealth.com/jobs?keyword={query}",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5P8FE630nsasDdE7Omwa5XAJeuTE2JjJoCITzKdo_xsd2DKnwN5wJEA&s=10",
-        confidence_score_to_join: "83%",
-        type: "mnc",
-        approx_employee_count: 100000,
-        specialized_in:
-          "Healthcare Insurance Digital Platforms, Health Analytics",
-        average_salary:
-          "senior_engg: 24LPA, hr_manager: 18LPA, finance_head: 42LPA",
       },
       {
         name: "Humana",
         careersUrl:
           "https://careers.humana.com/us/en/search-results?keywords={query}",
         logo: "https://logos-world.net/wp-content/uploads/2022/07/Humana-Symbol.png",
-        confidence_score_to_join: "83%",
-        type: "mnc",
-        approx_employee_count: 67000,
-        specialized_in:
-          "Health Insurance Platforms, Senior Wellness Technology",
-        average_salary:
-          "senior_engg: 24LPA, hr_manager: 17LPA, finance_head: 41LPA",
       },
       {
         name: "Cleveland Clinic",
         careersUrl:
           "https://jobs.clevelandclinic.org/job-search-results/?keyword={query}",
         logo: "https://img.logo.dev/clevelandclinic.org?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=512&retina=true&format=png",
-        confidence_score_to_join: "89%",
-        type: "enterprise",
-        approx_employee_count: 77000,
-        specialized_in:
-          "Hospital Clinical Systems, Health Informatics Research",
-        average_salary:
-          "senior_engg: 22LPA, hr_manager: 16LPA, finance_head: 38LPA",
       },
       {
         name: "Mayo Clinic",
         careersUrl: "https://jobs.mayoclinic.org/",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Mayo_Clinic_logo.svg/960px-Mayo_Clinic_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
         logoSize: "bg-[size:200px_auto]",
-        confidence_score_to_join: "91%",
-        type: "enterprise",
-        approx_employee_count: 76000,
-        specialized_in:
-          "Academic Medical Research, Digital Healthcare Infrastructure",
-        average_salary:
-          "senior_engg: 24LPA, hr_manager: 17LPA, finance_head: 40LPA",
       },
     ],
   },
@@ -1090,13 +740,6 @@ export const categories = [
         careersUrl: "https://openai.com/careers/search/?q={query}",
         logo: "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg",
         logoSize: "bg-[size:200px_auto]",
-        confidence_score_to_join: "96%",
-        type: "growth_stage",
-        approx_employee_count: 4500,
-        specialized_in:
-          "Generative Pre-trained Transformers, Frontier AI Models",
-        average_salary:
-          "senior_engg: 80LPA, hr_manager: 38LPA, finance_head: 120LPA",
       },
       {
         name: "Hugging Face",
@@ -1120,13 +763,6 @@ export const categories = [
         name: "Pinecone",
         careersUrl: "https://www.pinecone.io/careers/#open-roles",
         logo: "https://upload.wikimedia.org/wikipedia/commons/5/55/Pinecone-Full-Logo-Black.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-        confidence_score_to_join: "91%",
-        type: "earlystartup",
-        approx_employee_count: 250,
-        specialized_in:
-          "Vector Database Engines, High-Performance Similarity Search",
-        average_salary:
-          "senior_engg: 45LPA, hr_manager: 24LPA, finance_head: 62LPA",
       },
       {
         name: "Scale AI",
@@ -1138,13 +774,6 @@ export const categories = [
         careersUrl:
           "https://jobs.ashbyhq.com/mistral.ai?departmentId=0e254708-ce04-4bd7-8fbe-c6b9a45e0f16",
         logo: "https://mistral.ai/_astro/cover-logo-lockup-gradient_Z15lru1.webp?dpl=6ab0eb9273e161000992bbba",
-        confidence_score_to_join: "95%",
-        type: "earlystartup",
-        approx_employee_count: 150,
-        specialized_in:
-          "Open-Weight Frontier Language Models, Efficient Inference",
-        average_salary:
-          "senior_engg: 65LPA, hr_manager: 30LPA, finance_head: 90LPA",
       },
       {
         name: "Anyscale (Ray)",
@@ -1252,13 +881,6 @@ export const categories = [
           "https://job-boards.greenhouse.io/dataiku?keyword={query}&departments%5B%5D=4039139004",
         logo: "https://images.seeklogo.com/logo-png/44/1/dataiku-logo-png_seeklogo-442441.png",
         logoSize: "bg-[size:200px_auto]",
-        confidence_score_to_join: "89%",
-        type: "growth_stage",
-        approx_employee_count: 1200,
-        specialized_in:
-          "Everyday AI Platforms, Enterprise Data Science Collaboration",
-        average_salary:
-          "senior_engg: 35LPA, hr_manager: 22LPA, finance_head: 50LPA",
       },
       {
         name: "Domino Data Lab",
@@ -1302,37 +924,16 @@ export const categories = [
         name: "Meesho",
         careersUrl: "https://www.meesho.io/jobs?d=engineering",
         logo: "https://i.pinimg.com/736x/38/b4/84/38b484fcc4ab08c2fa2f23a2ae97b727.jpg",
-        confidence_score_to_join: "88%",
-        type: "growth_stage",
-        approx_employee_count: 2000,
-        specialized_in:
-          "Social Commerce Architecture, Tier-2/3 Retail Logistics",
-        average_salary:
-          "senior_engg: 38LPA, hr_manager: 24LPA, finance_head: 58LPA",
       },
       {
         name: "eBay",
         careersUrl: "https://jobs.ebayinc.com/us/en/jobs-in-india",
         logo: "https://download.logo.wine/logo/EBay/EBay-Logo.wine.png",
-        confidence_score_to_join: "85%",
-        type: "mnc",
-        approx_employee_count: 12300,
-        specialized_in:
-          "Global Auction Engine Platforms, Consumer Marketplaces",
-        average_salary:
-          "senior_engg: 30LPA, hr_manager: 21LPA, finance_head: 48LPA",
       },
       {
         name: "Etsy",
         careersUrl: "https://careers.etsy.com/jobs/search?query={query}",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Etsy_logo.svg/3840px-Etsy_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "90%",
-        type: "mnc",
-        approx_employee_count: 2800,
-        specialized_in:
-          "Handmade Goods Marketplace, Personalized Search Algorithms",
-        average_salary:
-          "senior_engg: 36LPA, hr_manager: 23LPA, finance_head: 50LPA",
       },
       {
         name: "Instacart",
@@ -1343,25 +944,11 @@ export const categories = [
         name: "Rakuten",
         careersUrl: "https://rakuten.openings.co/rakuten/",
         logo: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg",
-        confidence_score_to_join: "84%",
-        type: "mnc",
-        approx_employee_count: 32000,
-        specialized_in:
-          "Japanese E-Commerce Systems, Digital Ecosystem Platforms",
-        average_salary:
-          "senior_engg: 24LPA, hr_manager: 18LPA, finance_head: 42LPA",
       },
       {
         name: "Zalando",
         careersUrl: "https://jobs.zalando.com/en/jobs?q={query}",
         logo: "https://logos-world.net/wp-content/uploads/2023/01/Zalando-Logo.png",
-        confidence_score_to_join: "87%",
-        type: "mnc",
-        approx_employee_count: 16000,
-        specialized_in:
-          "European Online Fashion Retail Tech, Supply Distribution",
-        average_salary:
-          "senior_engg: 28LPA, hr_manager: 20LPA, finance_head: 46LPA",
       },
       {
         name: "Delivery Hero",
@@ -1374,13 +961,6 @@ export const categories = [
         careersUrl:
           "https://www.klaviyo.com/careers/search-jobs?keywords={query}",
         logo: "https://mms.businesswire.com/media/20220323005313/en/1398264/4/Klaviyo_primary_mark_poppy-SQ.jpg",
-        confidence_score_to_join: "91%",
-        type: "mnc",
-        approx_employee_count: 1600,
-        specialized_in:
-          "E-Commerce Customer Data Platforms, Automated Marketing",
-        average_salary:
-          "senior_engg: 38LPA, hr_manager: 24LPA, finance_head: 52LPA",
       },
       {
         name: "BigCommerce",
@@ -1479,13 +1059,6 @@ export const categories = [
         name: "Ankorstore",
         careersUrl: "https://my.ankorstore.com/join-us/en#opportunities",
         logo: "https://cdn-images.welcometothejungle.com/XBuedJELH8bBB3R498SFySMGbF_zZ_mo1PM5U6-3BBw/rs:auto:400::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby8wMjU5LzE1NzU4OS8zMjliNjMwMy02ODYwLTRjY2EtOTBjMC02OTQ0OThhYWZlMTMucG5n",
-        confidence_score_to_join: "84%",
-        type: "growth_stage",
-        approx_employee_count: 600,
-        specialized_in:
-          "B2B Wholesale E-Commerce Platforms for Independent Retailers",
-        average_salary:
-          "senior_engg: 29LPA, hr_manager: 19LPA, finance_head: 43LPA",
       },
       {
         name: "Spryker",
@@ -1502,13 +1075,6 @@ export const categories = [
         name: "HubSpot",
         careersUrl: "https://www.hubspot.com/careers/jobs?q={query}&page=1",
         logo: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/HubSpot_Logo.svg/3840px-HubSpot_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-        confidence_score_to_join: "96%",
-        type: "mnc",
-        approx_employee_count: 7600,
-        specialized_in:
-          "Inbound Marketing Automation, Customer Platform Systems",
-        average_salary:
-          "senior_engg: 36LPA, hr_manager: 25LPA, finance_head: 55LPA",
       },
       {
         name: "Figma",
@@ -1525,13 +1091,6 @@ export const categories = [
         name: "Notion",
         careersUrl: "https://www.notion.com/careers?department=engineering",
         logo: "https://cdn.dribbble.com/userupload/30613445/file/still-cb1bfc4919e3b77afd442d6440d79d16.png",
-        confidence_score_to_join: "94%",
-        type: "growth_stage",
-        approx_employee_count: 600,
-        specialized_in:
-          "All-in-One Knowledge Management Systems, Workspace Tech",
-        average_salary:
-          "senior_engg: 48LPA, hr_manager: 27LPA, finance_head: 68LPA",
       },
       {
         name: "Zendesk",
@@ -1554,13 +1113,6 @@ export const categories = [
         careersUrl:
           "https://careers.docusign.com/careers-home/jobs?page=1&keywords={query}",
         logo: "https://images.ctfassets.net/3fcisxc3a6xz/docusign_logo_black_text_on_white_0.png/e9c3ea9388b6b21f45118eb200d56aea/ds-logo-on-white.png",
-        confidence_score_to_join: "88%",
-        type: "mnc",
-        approx_employee_count: 6800,
-        specialized_in:
-          "Electronic Signature Protocols, Contract Lifecycle SaaS",
-        average_salary:
-          "senior_engg: 32LPA, hr_manager: 21LPA, finance_head: 48LPA",
       },
       {
         name: "Dropbox",
@@ -1701,13 +1253,7 @@ export const categories = [
         name: "Confluent",
         careersUrl: "https://www.ibm.com/careers/search?q={query}",
         logo: "https://1000logos.net/wp-content/uploads/2024/09/Confluent-Logo.png",
-        confidence_score_to_join: "91%",
-        type: "mnc",
-        approx_employee_count: 2800,
-        specialized_in:
-          "Event Streaming Platforms, Apache Kafka Data Pipelines",
-        average_salary:
-          "senior_engg: 38LPA, hr_manager: 24LPA, finance_head: 52LPA",
+        popular: [""],
       },
       {
         name: "Red Hat",
@@ -1726,26 +1272,12 @@ export const categories = [
           "https://www.github.careers/careers-home/jobs?keywords={query}",
         logo: "https://cdn-icons-png.flaticon.com/256/25/25231.png",
         logoSize: "bg-[size:200px_auto]",
-        confidence_score_to_join: "94%",
-        type: "mnc",
-        approx_employee_count: 3000,
-        specialized_in:
-          "Version Control Repositories, Developer AI Copilot Systems",
-        average_salary:
-          "senior_engg: 42LPA, hr_manager: 26LPA, finance_head: 58LPA",
       },
       {
         name: "Vercel",
         careersUrl: "https://vercel.com/careers#positions",
         logo: "https://logos-world.net/wp-content/uploads/2024/10/Vercel-Logo.png",
         logoSize: "bg-[size:200px_auto]",
-        confidence_score_to_join: "94%",
-        type: "growth_stage",
-        approx_employee_count: 500,
-        specialized_in:
-          "Frontend Cloud Infrastructure, Next.js Development Stack",
-        average_salary:
-          "senior_engg: 48LPA, hr_manager: 26LPA, finance_head: 68LPA",
       },
       {
         name: "Elastic",
@@ -1779,13 +1311,6 @@ export const categories = [
         name: "Sentry",
         careersUrl: "https://sentry.io/careers/#openings",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQveL6_dLQFBtlZz9KECdt0Q3hxjz03DBUCPB0-XbwR-h_lZCtffXywBx5k&s=10",
-        confidence_score_to_join: "92%",
-        type: "growth_stage",
-        approx_employee_count: 400,
-        specialized_in:
-          "Application Performance Monitoring, Code Error Tracking",
-        average_salary:
-          "senior_engg: 40LPA, hr_manager: 23LPA, finance_head: 55LPA",
       },
       {
         name: "JFrog",
