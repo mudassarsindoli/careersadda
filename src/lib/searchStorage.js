@@ -1,4 +1,4 @@
-const STORAGE_KEY = "jobeer.search";
+const STORAGE_KEY = "careersadda.search";
 
 export function loadSearch() {
   if (typeof window === "undefined") return "";
