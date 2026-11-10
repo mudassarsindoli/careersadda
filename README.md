@@ -1,16 +1,24 @@
-# React + Vite
+# CareersAdda
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A fast directory of company career portals. Search and open a company's careers page in one click.
 
-Currently, two official plugins are available:
+**Live:** [careersadda.vercel.app](https://careersadda.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Why
 
-## React Compiler
+Finding the official careers page of a company usually means searching, scrolling past job boards, and clicking through several links. CareersAdda takes you straight to the source.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the Oxlint configuration
+- Search by company or job title
+- One-click access to official career pages
+- Responsive layout for desktop and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Tech
+
+- JavaScript
+- Deployed on Vercel
+
+## Author
+
+[Mudassar Sindoli](https://github.com/mudassarsindoli)
